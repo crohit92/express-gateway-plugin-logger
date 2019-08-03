@@ -1,4 +1,4 @@
-# express-gateway-plugin-example
+# express-gateway-plugin-logger
 Generic plugin example for [Express Gateway](http://www.express-gateway.io/)
 
 It shows all extension points available in the Express Gateway Plugin Engine 1.2.0
