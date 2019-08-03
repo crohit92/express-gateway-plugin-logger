@@ -1,0 +1,50 @@
+{
+  "_from": "express-gateway-plugin-logger",
+  "_inBundle": false,
+  "_integrity": "sha1-SCQAz2uz7FahX31ERsLkMyFHyYY=",
+  "_location": "/express-gateway-plugin-logger",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "express-gateway-plugin-logger",
+    "name": "express-gateway-plugin-logger",
+    "escapedName": "express-gateway-plugin-logger",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/express-gateway-plugin-logger/-/express-gateway-plugin-logger-1.0.1.tgz",
+  "_shasum": "482400cf6bb3ec56a15f7d4446c2e4332147c986",
+  "_spec": "express-gateway-plugin-logger",
+  "_where": "/Users/rohit.chopra/Documents/gitlab/knowmax/api-gateway",
+  "author": "Rohit Chopra",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Plugin jwt-extract for Express Gateway",
+  "license": "Apache-2.0",
+  "main": "manifest.js",
+  "name": "express-gateway-plugin-logger",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crohit92/express-gateway-plugin-logger.git"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "bugs": {
+    "url": "https://github.com/crohit92/express-gateway-plugin-logger/issues"
+  },
+  "homepage": "https://github.com/crohit92/express-gateway-plugin-logger#readme"
+}
